@@ -9,10 +9,10 @@
 	networkFTPPort = "Server port",
 	networkFTPUser = "Benutzer",
 	networkFTPPassword = "Passwort",
-	updatingFileList = "Aktualisieren der Dateiliste...",
+	updatingFileList = "Aktualisiere Dateiliste...",
 	network = "Netzwerk",
 	networkTimeout = "Remotecomputer reagiert nicht",
-	networkAccessDenied = "Der Zugriff auf das Dateisystem des Remotecomputers wurde verweigert. Wenden Sie sich an den Eigentümer, um entsprechende Berechtigungen zu erhalten",
+	networkAccessDenied = "Der Zugriff auf das Dateisystem des Remotecomputers wurde verweigert. Wende dich an den Eigentümer, um entsprechende Berechtigungen zu erhalten",
 	networkAllowReadAndWrite = "Zugriff auf das Dateisystem",
 	networkModemNotAvailable = "Modem anschließen, um Netzwerkfunktionen zu verwenden",
 	networkState = "Netzwerk Aktivieren/Deaktivieren",
@@ -118,7 +118,7 @@
 
 	uploadToPastebin = "Auf Pastebin hochladen",
 	pasteName = "Name einfügen",
-	uploading = "Hochladen läuft...",
+	uploading = "Lade hoch...",
 	uploadingSuccess = "Hochgeladen.",
-	uploadingFailure = "Hochladen fehlgeschlagen:",
+	uploadingFailure = "Upload fehlgeschlagen:",
 }

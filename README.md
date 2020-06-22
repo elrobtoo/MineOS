@@ -1,7 +1,7 @@
 
-## MineOS Standalone has released!
+## TessOS (MineOS Fork) Standalone has released!
 
-Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. MineOS has finally reached the release stage: now it is a completely independent operating system with its own lightweight development API and wonderful [illustrated wiki](https://github.com/IgorTimofeev/MineOS/wiki) of it's usage. Here's a short features list:
+Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. TessOS has finally reached the release stage: now it is a completely independent operating system with its own lightweight development API and wonderful [illustrated wiki](https://github.com/IgorTimofeev/MineOS/wiki) of it's usage. Here's a short features list:
 
 -   Multitasking
 -   Double buffered graphical user interface
@@ -11,7 +11,7 @@ Hello again, dear friend. Thank you for being with us and supporting our ideas t
 -   File sharing over the local network via modems
 -   Client connections to real FTP servers
 -   An internal IDE with syntax highlighting and debugger
--   App Market for publishing programs for every MineOS user
+-   App Market for publishing programs for every Tess user
 -   Error reporting system with the possibility to send information to developers
 -   Animations, wallpapers, screensavers, color schemes and huge customization possibilities
 -   Open source system API and detailed illustrated documentations
@@ -20,7 +20,7 @@ Hello again, dear friend. Thank you for being with us and supporting our ideas t
 
 The easiest way is to use default **pastebin** script. Insert OpenOS floppy disk to computer, insert an Internet Card, turn computer on and type the following to console:
 
-	pastebin run 0nm5b1ju
+	pastebin run ecxkQn5m
 
 After a moment, a nice system installer will be shown. You will be prompted to select your preferred language, select and format a boot volume, create a user profile and customize some settings. After that, the system will be successfully installed.
 

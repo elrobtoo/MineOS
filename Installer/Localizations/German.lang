@@ -17,6 +17,6 @@
 	flashing = "Blinkendes EEPROM...",
 	creating = "Erstellen eines Benutzerprofils...",
 	installing = "Installieren",
-	installed = "Minen installiert wurde. Genießen Sie!",
+	installed = "Tess wurde installiert, bitte update das System nach dem ersten Start.",
 	reboot = "Neustart",
 }
